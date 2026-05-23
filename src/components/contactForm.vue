@@ -60,7 +60,7 @@
             </div>
           </a>
 
-          <a href="https://github.com/atilladurmus" target="_blank" class="contact-link">
+          <a href="https://github.com/Atilla0707" target="_blank" class="contact-link">
             <span class="link-icon">⌘</span>
             <div>
               <p>GitHub</p>

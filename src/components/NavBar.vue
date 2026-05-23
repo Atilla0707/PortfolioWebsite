@@ -22,8 +22,8 @@ const closeMenu = () => {
       <RouterLink to="/contact" @click="closeMenu" class="btn">Contact</RouterLink>
     </nav>
 
-    <a href="https://gitlab.com" target="_blank" class="visit-btn">
-      Visit GitLab
+    <a href="https://github.com/Atilla0707" target="_blank" class="visit-btn">
+      Visit GitHub
     </a>
 
     <button class="menu-btn" @click="menuOpen = !menuOpen">
