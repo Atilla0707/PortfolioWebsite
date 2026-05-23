@@ -64,9 +64,18 @@
             <span class="link-icon">⌘</span>
             <div>
               <p>GitHub</p>
-              <small>github.com/atilladurmus</small>
+              <small>github.com/Atilla0707</small>
             </div>
           </a>
+
+          <a href="tel:+31627192672" target="_blank" class="contact-link">
+            <span class="link-icon">☎</span>
+            <div>
+              <p>GitHub</p>
+              <small>+31 6 27 19 26 72</small>
+            </div>
+          </a>
+
         </div>
       </div>
     </div>
